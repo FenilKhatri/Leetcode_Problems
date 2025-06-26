@@ -1,1 +1,1 @@
-# 2620. Counter
+# 2040. Kth Smallest Product of Two Sorted Array
